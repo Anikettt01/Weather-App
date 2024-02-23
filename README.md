@@ -1,16 +1,26 @@
-# weather_app
+# London Weather Forecast App
 
-A new Flutter project.
+Welcome to the London Weather Forecast App! This application provides real-time weather forecasting for London using an API. With this app, users can stay updated on the current weather conditions as well as receive forecasts for the next 12 hours.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Real-Time Weather Data**: The app fetches real-time weather data using an API, ensuring that users receive the most accurate and up-to-date information about the weather in London.
 
-A few resources to get you started if this is your first Flutter project:
+- **12-Hour Forecast**: Users can view weather forecasts for the next 12 hours, allowing them to plan their activities accordingly.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Temperature**: The app displays the current temperature in London, helping users prepare for the day ahead.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Weather Conditions**: Users can easily check the overall weather conditions, whether it's sunny, cloudy, rainy, or any other weather phenomenon.
+
+- **Humidity, Wind Speed, and Pressure**: In addition to temperature and weather conditions, the app also provides information on humidity, wind speed, and atmospheric pressure, giving users a comprehensive overview of the weather situation.
+
+
+## Technologies Used
+- **Framework**: Flutter
+- **Programming Language**: Dart
+- **API**: OpenWeatherMap API
+- **Dependencies**: Requests (for API requests)
+
+## Acknowledgments
+
+- Weather data provided by OpenWeatherMap.
